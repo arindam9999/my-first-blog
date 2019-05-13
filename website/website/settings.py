@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
-ADMIN_MEDIA_PREFIX = '/admin-media/'
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
